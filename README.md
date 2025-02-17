@@ -5,3 +5,5 @@
 <h1 align="center">BlackWire</h1>
 
 <p align="center">Malware written in Go Lang that targets Windows systems, grabs Data from Discord, Web Browsers, Files, and much more. (PoC. For Educational Purposes only)</p>
+
+## About BlackWire
