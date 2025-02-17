@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/168159668?s=400&u=52a98d8851d3d334bc6aa1c99fb2fac682f2af97&v=4" width="150" style="border-radius: 50%;" alt="Avatar">
+    <img src="https://cdn.discordapp.com/attachments/1164028816923054182/1340902207008280696/image.png?ex=67b40bfe&is=67b2ba7e&hm=da27f51a621c21460c46885879410a99c05de36167835bcc3f3de859abbbd0cd&" width="150" style="border-radius: 50%;" alt="Avatar">
 </p>
 
 <h1 align="center">BlackWire</h1>
